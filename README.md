@@ -4,12 +4,10 @@ Card game. This app run on .NET Core 3.1
 
 # Getting Started
 
-1. Installation process
-   a. Build
+1. Installation
    ```console
    dotnet build
    ```
-   b. Run
    ```console
    dotnet run
    ```
